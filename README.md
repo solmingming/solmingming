@@ -7,9 +7,9 @@
 
 
 ## 🅲🅰🆁🅴🅴🆁
-![]-🏫 Ewha Womans University, Department of Computer Science & Engineering (Double major: Business)
-![]-⛓️ Decipher, Seoul National University Blockchain Academy
-![]-🤖 PlayGround, artificial intelligence education organization
+-🏫 Ewha Womans University, Department of Computer Science & Engineering (Double major: Business)  
+-⛓️ Decipher, Seoul National University Blockchain Academy  
+-🤖 PlayGround, artificial intelligence education organization  
 
 
 <!--
