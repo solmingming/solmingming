@@ -1,10 +1,12 @@
 ### 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚂𝙾𝚕𝙼𝙸𝙽 𝚆𝙾𝚁𝙻𝙳
 
+  
+  
 [![](https://img.shields.io/badge/-@sol_mining9-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/sol_mining9)
 [![](https://img.shields.io/badge/-@solmingming-%23181717?style=flat-square&logo=github)](https://github.com/solmingming)
 
-
-
+  
+  
 
 ## 🅲🅰🆁🅴🅴🆁
 -🏫 Ewha Womans University, Department of Computer Science & Engineering (Double major: Business)  
