@@ -1,12 +1,16 @@
-### Welcome to SOlMIN WORLD~! 👋
+### 𝚆𝙴𝙻𝙲𝙾𝙼𝙴 𝚃𝙾 𝚂𝙾𝚕𝙼𝙸𝙽 𝚆𝙾𝚁𝙻𝙳
 
 [![](https://img.shields.io/badge/-@sol_mining9-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/sol_mining9)
 [![](https://img.shields.io/badge/-@solmingming-%23181717?style=flat-square&logo=github)](https://github.com/solmingming)
 
-🇼 🇪 🇱 🇨 🇴 🇲 🇪  🇹 🇴  🇸 🇴 🇱 🇲 🇮 🇳  🇼 🇴 🇷 🇱 🇩 
 
 
-## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
+
+## 🅲🅰🆁🅴🅴🆁
+-🏫 Ewha Womans University, Department of Computer Science & Engineering (Double major: Business)
+-⛓️ Decipher, Seoul National University Blockchain Academy
+-🤖 PlayGround, artificial intelligence education organization
+
 
 <!--
 [![onetab.group](https://svg.bookmark.style/api?url=https://www.onetab.group&mode=light&style=horizontal)](https://onetab.group)
@@ -14,7 +18,7 @@
 [![vue-sonner](https://svg.bookmark.style/api?url=https://github.com/xiaoluoboding/vue-sonner&mode=light&style=horizontal)](https://github.com/xiaoluoboding/vue-sonner)
 -->
 
-## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
+## 🆃🅴🅲🅷 🆂🆃🅰🅲🅺
 
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
@@ -46,7 +50,7 @@
 ![Render](https://img.shields.io/badge/-Render-%2346E3B7?style=flat-square&logo=render&logoColor=ffffff) -->
 
 
-## 𝗦𝘁𝗮𝘁𝘀
+## 🆂🆃🅰🆃🆄🆂
 
 ![solmingming's github stats](https://github-readme-stats.vercel.app/api?username=solmingming&show_icons=true&theme=dracula)
 
